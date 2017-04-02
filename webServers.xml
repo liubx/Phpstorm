@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="16279f99-2fba-416c-83d7-e504e85686f4" name="liubx1988.com" url="http://liubx1988.com:3000">
-        <fileTransfer host="liubx1988.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/node" accessType="SFTP" keyPair="true">
+        <fileTransfer host="liubx1988.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/root/map" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
