@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/liubx/WorkExhibition.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="bryan.liu@vip.51.ca" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/PhpStorm" />
